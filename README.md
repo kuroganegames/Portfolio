@@ -67,7 +67,11 @@ https://www.nicovideo.jp/watch/sm35405123
 
 ツールは公開。powerpointファイルを処理し、ffmpegでスライドショーの表示、字幕の自動生成、読み上げ結果の埋め込みを行うツール。
 
+#### 口頭で会話できるボットの制作
 
+https://www.youtube.com/watch?v=90ynZiTDQDo
+
+ツールは非公開。音声認識apiと自然対話apiと合成音声ソフトを活用することで、口頭で会話することが出来るボットを作成しました。SeikaCenter(廃盤)経由でVoiceroid2に発話させます。また、前述のMCLAと連携させることで、発話時に動くアバターも簡単に用意出来ます。
 
 
 
