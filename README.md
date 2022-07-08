@@ -111,8 +111,11 @@ https://www.vseeface.icu
 
 #### vroid studioを使用
 
+![avatar](https://user-images.githubusercontent.com/37547447/177962028-0b57d1de-c52c-48de-b49d-734299a7b61d.jpg)
+
 vroid studioを用いてアバターを制作しています。
-衣類を除いたテクスチャは自分で描いています。
+顔や肌のテクスチャ、簡易な衣装は自分で描いています。
+
 
 #### 変換など
 
