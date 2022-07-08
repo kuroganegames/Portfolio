@@ -28,6 +28,8 @@ instagram: https://www.instagram.com/kuroganegk/
 
 ### 配信用ツール(最低限文化的な配信用アバター(MCLA))
 
+![mcla_scheme](https://user-images.githubusercontent.com/37547447/177958049-bd729599-1f44-4db8-ae7a-99b69016e2e8.png)
+
 [kuroganegames/mcla_proto: easy live avatar (github.com)](https://github.com/kuroganegames/mcla_proto)
 https://kurogane-gk.booth.pm/items/1853708
 
@@ -55,6 +57,8 @@ https://kurogane-gk.booth.pm/items/1853708
 
 #### ニコニコ動画の広告欄のスクレイピング
 
+![scraping_ad](https://user-images.githubusercontent.com/37547447/177958044-7ccf9810-4b3d-4cdb-8b53-7288ce93da8e.png)
+
 https://www.nicovideo.jp/watch/sm36575503
 
 ツールは公開。seleniumを用いたスクレイピングとffmpegを組み合わせたツールを制作していました。
@@ -63,11 +67,15 @@ https://www.nicovideo.jp/watch/sm36575503
 
 #### ffmpegを用いた動画の自動生成
 
+![ffmpeg_pptx](https://user-images.githubusercontent.com/37547447/177958038-7cc6ad0c-0c41-487f-b63d-762d143949ac.png)
+
 https://www.nicovideo.jp/watch/sm35405123
 
 ツールは公開。powerpointファイルを処理し、ffmpegでスライドショーの表示、字幕の自動生成、読み上げ結果の埋め込みを行うツール。
 
 #### 口頭で会話できるボットの制作
+
+![ai_bot](https://user-images.githubusercontent.com/37547447/177958032-6e3d632e-ef05-42b9-bdab-7108c4cc60d2.png)
 
 https://www.youtube.com/watch?v=90ynZiTDQDo
 
