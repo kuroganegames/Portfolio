@@ -40,6 +40,38 @@ https://kurogane-gk.booth.pm/items/1853708
 内部プログラムをopencvに変更変更したり、顔認識プログラムと連携することで表情に合わせて立ち絵を切り替えるなどの活用方法もあります。
 
 
+### HandRex:easy recorder system for VRC
+
+[HandRex](https://github.com/kuroganegames/HandRex)
+
+VMCProtocolを使用してVRC内からOBSを操作するためのツールです。
+
+Boothからも入手可能です。
+
+[Booth](https://booth.pm/ja/items/4370494)
+
+Boothにはインスタントリプレイ版のEasyHandRexもあります。
+
+[EasyHandRex](https://kurogane-gk.booth.pm/items/4853263)
+
+
+### Webcam Splitter
+
+[Webcam Splitter](https://github.com/kuroganegames/WebcamSplitter)
+
+webカメラを分岐するためのツールです。OBSやUnityCaptureといった既存の仮想カメラを転用することで、1つのwebカメラで複数のモーションキャプチャソフトを使用する場合などに便利です。
+
+
+
+### simple-GUI-for-StableDiffusion
+
+[simple-GUI-for-StableDiffusion](https://github.com/kuroganegames/simple-GUI-for-StableDiffusion)
+
+tKinter製のStableDiffusion用のGUIツールです。AUTOMATIC1111/stable-diffusion-webuiの公開前に使用していました。
+
+![simple-GUI-for-StableDiffusion](https://raw.githubusercontent.com/kuroganegames/simple-GUI-for-StableDiffusion/main/v08.png)
+
+
 
 ### 動画制作補助ツール
 
