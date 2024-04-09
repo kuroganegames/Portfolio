@@ -46,13 +46,13 @@ https://kurogane-gk.booth.pm/items/1853708
 
 VMCProtocolを使用してVRC内からOBSを操作するためのツールです。
 
-Boothからも入手可能です。
+[Booth](https://booth.pm/ja/items/4370494)からも入手可能です。
 
-[Booth](https://booth.pm/ja/items/4370494)
+![HandRex](https://booth.pximg.net/ae88f7f0-cb6e-4ed3-8626-449088c7059a/i/4370494/25178ed9-b912-46d5-9e0f-c1bbd67e7560_base_resized.jpg)
 
-Boothにはインスタントリプレイ版のEasyHandRexもあります。
+Boothにはインスタントリプレイ版の[EasyHandRex](https://kurogane-gk.booth.pm/items/4853263)もあります。
 
-[EasyHandRex](https://kurogane-gk.booth.pm/items/4853263)
+![EasyHandRex](https://s2.booth.pm/ae88f7f0-cb6e-4ed3-8626-449088c7059a/i/4853263/23c1bb6d-b563-4718-b2d4-ad70cfff323b_base_resized.jpg)
 
 
 ### Webcam Splitter
